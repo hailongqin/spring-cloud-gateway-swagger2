@@ -10,6 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	
+	
 	<groupId>com.github.hiwepy</groupId>
 	<artifactId>spring-cloud-gateway-swagger2</artifactId>
 	<packaging>jar</packaging>
