@@ -6,17 +6,16 @@
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-starter-parent</artifactId>
-		<version>Hoxton.SR3</version>
+		<version>Hoxton.SR5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	
 	
 	<groupId>com.github.hiwepy</groupId>
 	<artifactId>spring-cloud-gateway-swagger2</artifactId>
 	<packaging>jar</packaging>
 	<name>Spring Cloud Gateway Swagger2</name>
 	<description>Spring Cloud Gateway Swagger2</description>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<url>https://github.com/hiwepy/${project.artifactId}</url>
 	
 	<licenses>
